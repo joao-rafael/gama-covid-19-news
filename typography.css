@@ -1,5 +1,40 @@
 @import url('https://fonts.googleapis.com/css?family=Rozha+One|Rubik:400,700&display=swap');
 
 .title{
+  margin-top: 130px;
+  font-weight: 400;
+  color: #343333;
+  font-size: 66px;
   font-family: 'Rozha One', serif;
+}
+.title-news{
+  max-width: 50%;
+  z-index: 10;
+  margin-top: 50px;
+  font-size: 66px;
+}
+.subtitle-news{
+  margin-top: 50px;
+  font-size: 48px;
+}
+.presentation-text{
+  color: #343333;
+  font-size: 66px;
+}
+.footer-link{
+  color: #ffffff;
+  font-family: 'Rubik', sans-serif;
+  text-decoration: none;
+}
+.scroll{
+  font-family: 'Rubik', sans-serif;
+  font-style: italic;
+
+}
+
+.red{
+  color: #DD4848;
+}
+.green{
+  color: #2AE1AA;
 }
