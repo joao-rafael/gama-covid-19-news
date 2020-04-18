@@ -7,13 +7,29 @@
   font-size: 66px;
   font-family: 'Rozha One', serif;
 }
+@media screen and (max-width: 940px) {
+  .title{
+    font-size: 28px!important;
+  }
+  .title-news{
+    z-index: 10;
+    margin-top: 50px;
+    font-size: 28px!important;
+  }
+  .subtitle-news{
+    margin-top: 50px;
+    font-size: 28px;
+  }
+}
 .title-news{
+  display: inline-block;
   max-width: 50%;
   z-index: 10;
   margin-top: 50px;
   font-size: 66px;
 }
 .subtitle-news{
+  max-width: 50%;
   margin-top: 50px;
   font-size: 48px;
 }

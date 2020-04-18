@@ -21,6 +21,13 @@
 .profile{
     width: 100%;
 }
+.title-profile{
+    margin-top: 120px;
+    font-weight: 400;
+    color: #343333;
+    font-size: 66px;
+    font-family: 'Rozha One', serif;
+  }
 .list{
     padding: 0;
     list-style-type: none;
@@ -46,4 +53,12 @@
     text-decoration: none;
     font-weight: bold;
     color: #DD4848;;
+}
+.disclaimer{
+    font-family: 'Rubik', sans-serif;
+    padding-bottom: 100px;
+}
+.disclaimer-index{
+    padding: 50px 0px;
+    font-family: 'Rubik', sans-serif;
 }
