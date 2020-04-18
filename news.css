@@ -15,6 +15,11 @@
     display: inline-block;
     color: #343333!important;
 }
+.news-video > a{
+    margin-top: 25px;
+    display: inline-block;
+    color: #343333!important;
+}
 .news-green{
     position: relative;
     padding: 10px 10% 0%;

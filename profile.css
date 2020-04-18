@@ -1,0 +1,49 @@
+@media screen and (min-width: 940px) {
+    .profile{
+        width: 800px;
+    }
+    .profile-photo{
+        float: left;
+        margin-right: 20px;
+    }
+    .profile-text{
+        font-family: 'Rubik', sans-serif;
+        font-size: 16px;
+        text-align: justify;
+    }
+    .profile-text > span{
+        font-style: italic;
+    }
+    .clear{
+        clear: both;
+    }
+}
+.profile{
+    width: 100%;
+}
+.list{
+    padding: 0;
+    list-style-type: none;
+    width: 80%;
+    margin: 50px 0px;
+}
+.list-item{
+    margin-right: 20px;
+    display: inline-block;
+    font-family: 'Rubik', sans-serif;
+}
+.list-item > a{
+    border: 1px solid #343333;
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 2px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: #343333;
+    text-decoration: none;
+}
+.profile-link{
+    text-decoration: none;
+    font-weight: bold;
+    color: #DD4848;;
+}
